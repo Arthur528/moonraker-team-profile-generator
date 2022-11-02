@@ -25,7 +25,9 @@ Please pull down the repository and run it locally using node.js
 You will need to install dependency packages including npm, inquirer, and Jest
 
 ## Links
-A link to the [code]
+A link to the [code](https://github.com/Arthur528/moonraker-team-profile-generator)
+
+https://github.com/Arthur528/moonraker-team-profile-generator
 
 A link to the [demo video](https://drive.google.com/file/d/1Ecu8lGylQGX8rr-Gp9FasOVoK5Bwcwv2/view)
 
