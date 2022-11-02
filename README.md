@@ -1,5 +1,5 @@
 # Object-Oriented Programming Challenge: Team Profile Generator
-[UW](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://bootcamp.uw.edu/)
+[![UW](https://img.shields.io/badge/UW-UW--Coding%20bootcamp-blueviolet)](https://bootcamp.uw.edu/)
 ## Technologies
 ![Technologies](https://img.shields.io/badge/-JavaScript-007396?logo=JavaScript&logoColor=white)
 ![Technologies](https://img.shields.io/badge/Node.js-43853D?logoColor=white)
