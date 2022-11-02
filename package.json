@@ -1,0 +1,28 @@
+{
+    "name": "project-red-light",
+    "version": "1.0.0",
+    "description": "[![UW](https://img.shields.io/badge/UW-Coding%20Bootcamp-green/)](https://bootcamp.uw.edu/)",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Arthur528/project-red-light.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Arthur528/project-red-light/issues"
+    },
+    "homepage": "https://github.com/Arthur528/project-red-light#readme",
+    "dependencies": {
+        "inquirer": "^8.2.4"
+    },
+    "devDependencies": {
+        "jest": "^27.5.1"
+    }
+}
