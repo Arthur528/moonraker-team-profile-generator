@@ -22,9 +22,9 @@ You will need to install dependency packages including npm, inquirer, and Jest
 ## Links
 A link to the [code]
 
-A link to the [demo video](../../Downloads/Untitled_%20Nov%202,%202022%2011_49%20AM.webm)
+A link to the [demo video](https://drive.google.com/file/d/1Ecu8lGylQGX8rr-Gp9FasOVoK5Bwcwv2/view)
 
-../../Downloads/Untitled_%20Nov%202,%202022%2011_49%20AM.webm
+https://drive.google.com/file/d/1Ecu8lGylQGX8rr-Gp9FasOVoK5Bwcwv2/view
 
 ## License
 
