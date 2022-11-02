@@ -24,6 +24,8 @@ A link to the [code]
 
 A link to the [demo video](../../Downloads/Untitled_%20Nov%202,%202022%2011_49%20AM.webm)
 
+../../Downloads/Untitled_%20Nov%202,%202022%2011_49%20AM.webm
+
 ## License
 
 Please refer to the LICENSE in the repo.
